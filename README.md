@@ -1,6 +1,6 @@
 # Sistema de Estacionamento
 
-Este é um projeto de sistema de estacionamento simples desenvolvido em HTML, CSS e JavaScript.
+Este é um projeto de sistema de estacionamento simples desenvolvido em HTML, CSS e JavaScript, Para os estudos em Typescript.
 
 ## Descrição
 
@@ -15,18 +15,11 @@ O sistema de estacionamento permite aos usuários cadastrar veículos, exibindo 
 
 ## Estrutura do projeto
 
-sistema-estacionamento/
-│
-├── index.html
-├── estilo.css
-├── script.js
-└── README.md
-
-
 - `index.html`: Arquivo HTML principal que contém a estrutura do sistema.
 - `estilo.css`: Arquivo CSS que define os estilos para a interface do usuário.
 - `script.js`: Arquivo JavaScript que contém a lógica do sistema.
+- - `script.ts`: Arquivo TypeScript que contém a lógica do sistema.
 - `README.md`: Este arquivo que fornece informações sobre o projeto.
 
 
-Criado por Mayara Rocha
+Criado por Mayara Rocha 
