@@ -2,7 +2,7 @@
 
 Este é um projeto de sistema de estacionamento simples desenvolvido em HTML, CSS e JavaScript, Para os estudos em Typescript.
 
-## Descrição
+## Descrição:
 
 O sistema de estacionamento permite aos usuários cadastrar veículos, exibindo o nome, a placa do veículo e o status de estacionamento. Os usuários também podem remover veículos da lista.
 
